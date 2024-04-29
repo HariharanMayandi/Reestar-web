@@ -1,0 +1,221 @@
+*{margin:0px;
+padding: 0px;}
+.container{
+    padding: 50px;
+}
+
+
+.section1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+    }
+
+    .section1__div{
+        padding: 10px;
+    }
+    
+    .section1 h1{
+        padding-top: 10px;
+    }
+
+
+
+#one{
+    background-color: black;
+    display: inline-block;
+    border-right: 1px white solid;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    vertical-align: top;
+    
+    
+}
+
+#two{
+    background-color: black;
+    display: inline-block;
+    border-right: 1px white solid;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    vertical-align: top;
+    
+    
+}
+
+#three{
+    background-color: black;
+    display: inline-block;
+    border-right: 1px white solid;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    vertical-align: top;
+
+    
+    
+}
+
+.section2{
+    
+    background-color:white;
+    display: inline-block;
+    margin:10px;
+    border: black solid 3px;
+}
+
+.section2 img{
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+}
+.section2 h1{
+    text-align: center;
+}
+.section2 p{
+    text-align: center;
+}
+
+.section2__button{
+    text-align: center;
+}
+.section2__button button{
+    background-color: black;
+    color: white;
+    padding: 3px;
+}
+.section2__button button:focus{
+    font-weight: bold;
+}
+
+/*section3*/
+.section3{
+    
+    background-color:white;
+    display: inline-block;
+    margin:10px;
+    border: black solid 3px;
+}
+.section3 img{
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+}
+
+.section3 h1{
+    text-align: center;
+}
+.section3 p{
+    text-align: center;
+}
+
+.section3__button{
+    text-align: center;
+}
+.section3__button button{
+    background-color: black;
+    color: white;
+    padding: 3px;
+}
+.section3__button button:focus{
+    font-weight: bold;
+}
+
+/*section4*/
+.section4{
+    
+    background-color:white;
+    display: inline-block;
+    margin:10px;
+    border: black solid 3px;
+}
+.section4 img{
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+}
+
+.section4 h1{
+    text-align: center;
+}
+.section4 p{
+    text-align: center;
+}
+
+.section4__button{
+    text-align: center;
+}
+.section4__button button{
+    background-color: black;
+    color: white;
+    padding: 3px;
+}
+.section4__button button:focus{
+    font-weight: bold;
+}
+
+/*section5*/
+.section5{
+    
+    background-color:white;
+    display: inline-block;
+    margin:10px;
+    border: black solid 3px;
+}
+.section5 img{
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+}
+
+.section5 h1{
+    text-align: center;
+}
+.section5 p{
+    text-align: center;
+}
+
+.section5__button{
+    text-align: center;
+}
+.section5__button button{
+    background-color: black;
+    color: white;
+    padding: 3px;
+}
+.section5__button button:focus{
+    font-weight: bold;
+}
+.container2{
+    text-align: center;
+}
+
+.container3 {
+    
+    text-align: center;
+    background-color: black;
+    color: white;}
+
+    
+.button2 button {
+    background-color: yellow;
+    color: black;
+    border: white 1px solid;
+    padding: 3px;
+    width: 300px;
+    
+}
+.form{
+    display:inline-block;
+    padding: 10px;
+}
+
+.button2 button:hover {
+    background-color: #ffcc00; 
+}
+
+.table{
+    text-align: center;
+    padding: 10px;
+    padding-left: 30px;
+}
